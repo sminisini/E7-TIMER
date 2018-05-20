@@ -1,7 +1,7 @@
 # E7-TIMER
 Chronomètre Electro 7
 
-Chronomètre Electro 7 a base d'arduino et ecran tft tactile 2.8 pouces
+Chronomètre Electro 7 à base d'arduino (nano) et écran tft tactile 2.8 pouces
 
 - Repertoire Code :
 Contient le code et les librairies utilisées
