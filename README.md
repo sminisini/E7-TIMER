@@ -16,4 +16,4 @@ https://drive.google.com/open?id=1mFaCFmf4NZxDkE1cmv4JDkZ-y0T3WW1u
 
 ![alt text](https://raw.githubusercontent.com/sminisini/E7-TIMER/master/Images/20180519_115901.jpg)
 
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://drive.google.com/open?id=1mFaCFmf4NZxDkE1cmv4JDkZ-y0T3WW1u)
